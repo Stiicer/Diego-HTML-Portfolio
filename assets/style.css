@@ -1,0 +1,81 @@
+body{
+    background-color: antiquewhite;
+}
+.pfp{
+    width: 250px;
+   margin-left: 76%; 
+   border-radius: 10%;
+  
+}
+#portTitle{
+justify-content: center;
+margin-left: 42%;
+}
+.row{
+    display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+.navBar{
+    justify-content: center;
+    text-decoration: underline;
+    font-size: x-large;
+    background-size:auto;
+    
+    
+}
+.titles{
+ position:relative;
+ margin-left: 10%;
+ flex-direction: column;
+ background-color: antiquewhite;
+ color: darkgreen;
+ font-size: 60px;
+ width: max-content;
+
+}
+.bio{
+    margin-left:28%;
+    font-size: 25px;
+    
+
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    border-right: thick green;
+    border-style: dotted;
+    border-top: rgb(0,0,0,0);
+    border-bottom: rgb(0,0,0,0);
+    border-left: rgb(0,0,0,0);
+}
+.aboutMe{
+
+}
+.work{
+
+}
+.contact{
+
+}
+.resume{
+
+}
+.workPic{
+    width: 250px;
+    height: 275px;
+    justify-content: center;
+}
+    
+
+.workPic:hover{
+    box-shadow: inset 0px 0px 8px rgba(12, 107, 231, 0.897), 0 0 15px rgb(12, 107, 231);
+   
+}
+
+.picCon{
+    padding-left: 35%;
+    justify-content: space-between;
+    
+}
