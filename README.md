@@ -26,7 +26,7 @@ This website displays a html version of my portfolio
 
 ## Screenshot
 
-![screenshot](./assets/pictures/PortfolioHTML.png) "Screenshot of website")
+![screenshot](./assets/pictures/PortfolioHTML.png)
 
 
 ## Credits
