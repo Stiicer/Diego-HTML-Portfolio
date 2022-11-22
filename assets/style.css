@@ -38,8 +38,6 @@ margin-left: 42%;
 .bio{
     margin-left:28%;
     font-size: 25px;
-    
-
 }
 .column{
     display: flex;
@@ -50,25 +48,31 @@ margin-left: 42%;
     border-bottom: rgb(0,0,0,0);
     border-left: rgb(0,0,0,0);
 }
-.aboutMe{
 
-}
-.work{
-
-}
-.contact{
-
-}
-.resume{
-
-}
 .workPic{
     width: 250px;
     height: 275px;
     justify-content: center;
 }
     
+.picText{
+    margin-left: 5%;
+    color: blue;
+    font-size: 25px;
 
+}
+.picText2{
+    margin-left: 6%;
+    color: blue;
+    font-size: 25px;
+    
+}
+.picText3{
+    margin-left: 7%;
+    color: blue;
+    font-size: 25px;
+    
+}
 .workPic:hover{
     box-shadow: inset 0px 0px 8px rgba(12, 107, 231, 0.897), 0 0 15px rgb(12, 107, 231);
    
